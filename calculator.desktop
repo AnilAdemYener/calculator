@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/calculator/nw/nw /usr/bin/calculator
+Name=Calculator
+Comment=Calculator by Anıl Adem Yener
+Icon=/usr/bin/calculator/logo.png
